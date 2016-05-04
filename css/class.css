@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+.imgg{
+	padding-top:50px;
+	margin-left:150px;
+	width:250px;
+	height:250px;
+	margin-top:20px;
+	vertical-align:central;
+	}
+.h{
+	text-align:center;
+	color:green;
+	}

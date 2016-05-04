@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+
+	.hd1{
+		text-align:center;
+		color:red;
+		}
+.box 
+{
+	margin-left:10px;
+	margin-right:150px;
+	background-image:url(../img/img/g.jpg);
+	padding:8px 11px 8px 5px;
+	font-weight:bold;
+	height:143px;
+	width:284px;
+	float:right;
+	margin-top:-100px;
+}
+.content-page 
+{
+	padding-right:200px;
+	padding-top:200px;
+}
+.imgd 
+{
+	float:left;
+	width:100px;
+	height:100px;
+}
+.title 
+{
+	font-size:16pt;
+	margin-bottom:25px;
+	padding-bottom:5px;
+	float:right;
+	margin-top:35px;
+}
+
+.title a 
+{
+	color:#909;
+	text-decoration:none;
+}
+
